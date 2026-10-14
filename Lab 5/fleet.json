@@ -1,0 +1,16 @@
+{
+  "R1": {
+    "name": "Main Gate - Library",
+    "trips": [
+      32,
+      28
+    ]
+  },
+  "R2": {
+    "name": "Hostel - Sports Complex",
+    "trips": [
+      4,
+      6
+    ]
+  }
+}
